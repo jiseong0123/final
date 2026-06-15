@@ -1,0 +1,47 @@
+#ifndef MAINWINDOW_H
+#define MAINWINDOW_H
+#include <QMainWindow>
+#include <QMap>
+#include <QVector>
+#include <QString>
+// Qt UI 구성 요소 전방 선언
+QT_BEGIN_NAMESPACE
+class QLabel;
+class QPushButton;
+class QListWidget;
+class QListWidgetItem;
+QT_END_NAMESPACE
+
+// 항공편 정보를 저장하기 위한 구조체 정의
+struct Flight {
+    QString code;
+    QString from;
+    QString to;
+    int price;
+    QString duration;
+};
+
+// 메인 윈도우 클래스 정의
+class MainWindow : public QMainWindow {
+    Q_OBJECT  // Qt의 시그널-슬롯 시스템 사용을 위한 매크로
+public:
+    MainWindow(QWidget *parent = nullptr);    // 생성자
+    ~MainWindow();                            // 소멸자
+private:
+    // 그래프 데이터 구조: 도시(Key)와 해당 도시에서 출발하는 항공편 목록(Value) 저장
+    QMap<QString, QVector<Flight>> graph;
+    
+    // UI 구성 요소 선언
+    QWidget *centralWidget;
+    QLabel *mapLabel;
+    QListWidget *flightList;
+    
+    // 초기 설정 함수들
+    void setupUI();                                                   // 사용자 인터페이스 초기화
+    void setupGraph();                                                // 그래프 데이터 초기화
+    void addCityButton(const QString &city, int x, int y);            // 지도에 도시 버튼 추가
+    void showFlightsFromCity(const QString &city); 
+private slots: 
+    void onFlightClicked(QListWidgetItem *item);
+};
+#endif // MAINWINDOW_H
