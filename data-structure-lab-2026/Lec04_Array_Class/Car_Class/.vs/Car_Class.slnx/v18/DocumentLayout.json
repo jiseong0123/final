@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58537148-A4C9-4DDA-9B49-5DBBEBD05590}|Car_Class.vcxproj|C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58537148-A4C9-4DDA-9B49-5DBBEBD05590}|Car_Class.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58537148-A4C9-4DDA-9B49-5DBBEBD05590}|Car_Class.vcxproj|C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58537148-A4C9-4DDA-9B49-5DBBEBD05590}|Car_Class.vcxproj|solutionrelative:SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58537148-A4C9-4DDA-9B49-5DBBEBD05590}|Car_Class.vcxproj|C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58537148-A4C9-4DDA-9B49-5DBBEBD05590}|Car_Class.vcxproj|solutionrelative:Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-04T21:05:00.233Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeDocumentMoniker": "Car.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeToolTip": "Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-04T21:04:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportsCar.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\SportsCar.h",
+              "RelativeDocumentMoniker": "SportsCar.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\SportsCar.h",
+              "RelativeToolTip": "SportsCar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-04T21:34:05.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

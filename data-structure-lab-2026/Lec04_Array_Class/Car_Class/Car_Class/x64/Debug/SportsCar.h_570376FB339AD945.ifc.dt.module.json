@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Car_Class\\x64\\Debug\\SportsCar.obj",
+            "outputs": [
+                "Car_Class\\x64\\Debug\\SportsCar.h_570376FB339AD945.ifc.dt.module.json",
+                "Car_Class\\x64\\Debug\\SportsCar.h_570376FB339AD945.ifc.dt.d.json",
+                "Car_Class\\x64\\Debug\\SportsCar.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Car_Class\\SportsCar.h",
+                    "source-path": "c:\\users\\user\\documents\\data-structure-lab-2026-1\\lec04_array_class\\car_class\\sportscar.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

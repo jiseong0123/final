@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Polynomial_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14FC505-92B2-4DD6-B71F-9B51748026D0}|Polynomial_Class.vcxproj|C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B14FC505-92B2-4DD6-B71F-9B51748026D0}|Polynomial_Class.vcxproj|solutionrelative:Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "Polynomial.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp",
+              "RelativeToolTip": "Polynomial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-04T21:25:21.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

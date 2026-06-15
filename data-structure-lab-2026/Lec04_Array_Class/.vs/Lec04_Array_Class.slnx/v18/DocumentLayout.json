@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707A96A0-7A81-4277-8336-7FDEC5C72EA2}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Lec04_Array_Class\\MaxBrightness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707A96A0-7A81-4277-8336-7FDEC5C72EA2}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\MaxBrightness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxBrightness.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Lec04_Array_Class\\MaxBrightness.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\MaxBrightness.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\data-structure-lab-2026-1\\Lec04_Array_Class\\Lec04_Array_Class\\MaxBrightness.cpp",
+              "RelativeToolTip": "Lec04_Array_Class\\MaxBrightness.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-04T20:41:45.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

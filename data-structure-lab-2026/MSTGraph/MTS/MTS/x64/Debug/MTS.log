@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\USER\Documents\데구\data-structure-lab-2026\MSTGraph\MTS\MTS\소스.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'WGraphMST.h': No such file or directory
+  소스.h
+C:\Users\USER\Documents\데구\data-structure-lab-2026\MSTGraph\MTS\MTS\소스.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'AdjMatGraph.h': No such file or directory
+  코드를 생성하고 있습니다...
